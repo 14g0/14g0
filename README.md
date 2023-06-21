@@ -18,7 +18,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=14g0&count_private=true&show_icons=true&theme=vue"
+    srcset="https://readme-stats-ng49oryb5-14g0.vercel.app/api?username=14g0&count_private=true&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=14g0&count_private=true&show_icons=true" />
