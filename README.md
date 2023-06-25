@@ -26,7 +26,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&layout=compact&theme=chartreuse-dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&layout=compact&theme=chartreuse-dark&lang_count=6"
     media="(prefers-color-scheme: dark)"
   />
   <source
