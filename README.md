@@ -26,14 +26,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&count_private=true&layout=compact&theme=chartreuse-dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&layout=compact&theme=chartreuse-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&count_private=true&layout=compact&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&layout=compact&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&count_private=true&layout=compact&theme=chartreuse-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&layout=compact&theme=chartreuse-dark" />
 </picture>
 
 
