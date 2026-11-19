@@ -12,30 +12,6 @@
 </br>
 </br>
 
-<picture>
-  <source
-    srcset="https://readme-stats-git-main-14g0.vercel.app/api?username=14g0&count_private=true&show_icons=true&theme=chartreuse-dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://readme-stats-git-main-14g0.vercel.app/api?username=14g0&count_private=true&show_icons=true&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=14g0&count_private=true&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&layout=compact&theme=chartreuse-dark&lang_count=6"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&layout=compact&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14g0&layout=compact&theme=chartreuse-dark" />
-</picture>
-
 
 <!--
 **14g0/14g0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
